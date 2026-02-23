@@ -7,7 +7,8 @@
 # AFOP Gear Swap Tool
 A lightweight GUI utility for swapping gear models in **Avatar: Frontiers of Pandora** using `.mgraphobject` file replacement.
 
-<img width="1400" height="895" alt="image" src="https://github.com/user-attachments/assets/2ea4208d-ca03-46fe-8158-180cf6aeb4d6" />
+<img width="1445" height="899" alt="image" src="https://github.com/user-attachments/assets/2cfcf960-1c7f-4312-8e2a-94929d6c67c1" />
+
 
 ## How to use
 1. **Set your mod folder** — point it to your `blue/graph objects/gear` directory. **(this is your output folder)**
