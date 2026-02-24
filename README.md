@@ -4,7 +4,7 @@
 ![Made for](https://img.shields.io/badge/made%20for-Avatar:_Frontiers_of_Pandora-00ffff?style=for-the-badge&logo=gamepad&logoColor=00ffff&labelColor=1a4d66)
 ![Tool Type](https://img.shields.io/badge/type-gear%20swapper-00ffff?style=for-the-badge&logo=package&logoColor=00ffff&labelColor=1a4d66)
 
-# AFOP Gear Swap Tool
+# AFoP Mgraphobject Swapper
 A lightweight GUI utility for swapping gear models in **Avatar: Frontiers of Pandora** using `.mgraphobject` file replacement.
 
 <img width="1445" height="899" alt="image" src="https://github.com/user-attachments/assets/2cfcf960-1c7f-4312-8e2a-94929d6c67c1" />
